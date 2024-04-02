@@ -622,6 +622,17 @@
       "rating": {
         "rate": "4.2"
       }
+    },
+    {
+      "id": "0dda",
+      "title": "Seagate Expansion 1TB External HDD ",
+      "description": "Digital Storage Capacity - 1TB; Get an extra layer of protection for your data with the included 3 year Rescue Data Recovery Services\n",
+      "price": "1444",
+      "category": "storage device",
+      "image": "https://m.media-amazon.com/images/I/41A4QqQUNJL._SX300_SY300_QL70_FMwebp_.jpg",
+      "rating": {
+        "rate": "3.6"
+      }
     }
   ],
   "users": [
