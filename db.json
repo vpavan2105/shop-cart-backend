@@ -356,7 +356,7 @@
       "id": "36",
       "title": "Hyaluronic Acid Serum",
       "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
-      "price": "121",
+      "price": 121,
       "rating": {
         "rate": 4,
         "count": 34
@@ -418,7 +418,7 @@
       "id": "c33f",
       "title": "Apple Watch Series 9 [GPS 45mm] Smartwatch with Midnight Aluminum Case with Midnight Sport Band M/L. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",
       "description": "WHY APPLE WATCH SERIES 9 — Your essential companion for a healthy life is now even more powerful. The S9 chip enables a super-bright display and a magical new way to quickly and easily interact with your Apple Watch without touching the screen. Advanced health, safety and activity features provide powerful insights and help when you need it. And redesigned apps in watchOS give you more information at a glance.",
-      "price": "1299",
+      "price": 1299,
       "category": "smart watch",
       "image": "https://m.media-amazon.com/images/I/7162zT9RKRL._SX679_.jpg",
       "rating": {
@@ -429,7 +429,7 @@
       "id": "c148",
       "title": "Samsung Galaxy Watch4 Classic LTE (4.6cm, Black)",
       "description": "Only compatible with Android Smartphones (Runs on Wear OS Powered by Samsung)\nBioelectrical Impedance Analysis Sensor for Body Composition Analysis, Optical Heart Rate Sensor.",
-      "price": "1099",
+      "price": 1099,
       "category": "smart watch",
       "image": "https://m.media-amazon.com/images/I/61mkpp+F95L._SX679_.jpg",
       "rating": {
@@ -440,7 +440,7 @@
       "id": "7f48",
       "title": "Fossil Gen 6 Digital Black Dial Men's Watch-FTW4059",
       "description": "Round stainless steel case, with a silver dial.\nWarranty type:Manufacturer; 1 Year International Warranty",
-      "price": "999",
+      "price": 999,
       "category": "smart watch",
       "image": "https://m.media-amazon.com/images/I/41JWnSAZN4L._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
@@ -451,7 +451,7 @@
       "id": "2618",
       "title": "Fire-Boltt Phoenix Ultra Luxury Stainless Steel, Bluetooth Calling Smartwatch, AI Voice Assistant, Metal Body with 120+ Sports Modes, SpO2, Heart Rate Monitoring (Gold)",
       "description": "【Bigger Round Display】- Comes with a TFT Color Full Touch Screen and a 240*240 Pixel High Resolution this watch is covered to flaunt the sleek and stylish look always. Enjoy a 320 NITS Peak Brightness",
-      "price": "1099",
+      "price": 1099,
       "category": "smart watch",
       "image": "https://m.media-amazon.com/images/I/51w6VCsZ6GL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
@@ -462,7 +462,7 @@
       "id": "fe44",
       "title": "Noise Diva Smartwatch with Diamond Cut dial, Glossy Metallic Finish, AMOLED Display, Mesh Metal and Leather Strap Options, 100+ Watch Faces, Female Cycle Tracker Smart Watch for Women (Gold Link)",
       "description": "Diamond-cut dial: Enhance your style with a diamond-cut dial that perfectly complements your glamorous lifestyle, adding a touch of sophistication to your everyday look.",
-      "price": "1299",
+      "price": 1299,
       "category": "smart watch",
       "image": "https://m.media-amazon.com/images/I/51rAZQpFcIL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
@@ -473,7 +473,7 @@
       "id": "47c8",
       "title": "BULLMER Peach Trendy Front Printed Oversized Round Neck T-Shirt for Men",
       "description": "Half Sleeve Tshirts With Round Neck , Superior Quality",
-      "price": "298",
+      "price": 298,
       "category": "men's clothing",
       "image": "https://m.media-amazon.com/images/I/619uXd9I3iL._SX679_.jpg",
       "rating": {
@@ -484,7 +484,7 @@
       "id": "46fe",
       "title": "Amazon Brand - Symbol Men's Cotton Solid Round Neck Regular Fit T-Shirt",
       "description": "Great for layering or wearing alone, this T-shirt features a crewneck, short sleeves, and a Label-free neck for everyday comfort",
-      "price": "249",
+      "price": 249,
       "category": "men's clothing",
       "image": "https://m.media-amazon.com/images/I/71xpdVWXoQL._SY879_.jpg",
       "rating": {
@@ -495,7 +495,7 @@
       "id": "1826",
       "title": "Lymio Men T-Shirt || T-Shirt for Men || Printed T Shirt || T-Shirt (B-Black)",
       "description": "Men T Shirt || T-Shirt For Men || Plain T Shirt || T-Shirt",
-      "price": "379",
+      "price": 379,
       "category": "men's clothing",
       "image": "https://m.media-amazon.com/images/I/61DNUreJbGL._SY879_.jpg",
       "rating": {
@@ -506,7 +506,7 @@
       "id": "e4d9",
       "title": "Dell S2421HNM 23.8\" (60.5cm) FHD Monitor 1920x1080 Pixels",
       "description": "Panel Type: IPS || Display Type: LED-Backlit || Adaptive-Sync Technology: AMD FreeSync",
-      "price": "9699",
+      "price": 9699,
       "category": "Monitor",
       "image": "https://m.media-amazon.com/images/I/81PsYOUgGeL._SX679_.jpg",
       "rating": {
@@ -517,7 +517,7 @@
       "id": "e00f",
       "title": "Samsung 22-inch (54.6cm) FHD Flat 1,920 x 1,080 Monitor, IPS, 75 Hz, Bezel",
       "description": "3 Years Warranty From Manufacturer || Eye Saver Mode + Flicker Free - Flicker Free technology continuously removes tiring and irritating screen flicker so you can focus longer with less distraction or eye strain.",
-      "price": "7099",
+      "price": 7099,
       "category": "Monitor",
       "image": "https://m.media-amazon.com/images/I/713ReREvBnL._SX679_.jpg",
       "rating": {
@@ -528,7 +528,7 @@
       "id": "6a8b",
       "title": "Bajaj GX-1 Mixer Grinder",
       "description": "The mixer grinder features three jars (1.20L liquidizing, 0.8L multi-purpose, 0.4L chutney) with stainless steel blades, an ABS body, PVC cord, and 3-speed control with an incher for momentary operation.",
-      "price": "1899",
+      "price": 1899,
       "category": "kitchen",
       "image": "https://m.media-amazon.com/images/I/51NNA+k9S0L._AC_UL480_QL65_.jpg",
       "rating": {
@@ -539,7 +539,7 @@
       "id": "746e",
       "title": "HUL Pureit Vital Plus Mineral",
       "description": "Presenting new Pureit Vital Plus with FiltraPower technology, proven to remove toxic substances & provide safe drinking water.",
-      "price": "1399",
+      "price": 1399,
       "category": "kitchen",
       "image": "https://m.media-amazon.com/images/I/31qSi+4hxAL._SY300_SX300_.jpg",
       "rating": {
@@ -550,7 +550,7 @@
       "id": "17a5",
       "title": "AGARO Marvel 9 Liters Oven Toaster Griller",
       "description": "Bake, Grill, Toast and more 1 Year Manufacturer's Warranty.Automatic Thermostat I Auto Shut Off I Ready Bell. Cavity Material: Stainless Steel.Heat resistant tempered glass window with Cool Touch Handle\nAdjustable temperature from 100°C to 250°C",
-      "price": "588",
+      "price": 588,
       "category": "kitchen",
       "image": "https://m.media-amazon.com/images/I/711HDyG4eOL._AC_UL480_QL65_.jpg",
       "rating": {
@@ -561,7 +561,7 @@
       "id": "e524",
       "title": "Crompton Gracee ",
       "description": " Crompton's 5L instant water heater with fast heating function.Steam Thermostat, automatic thermal cut-out, pressure release valve and a fusible plug to ensure complete safety.",
-      "price": "1499",
+      "price": 1499,
       "category": "kitchen",
       "image": "https://m.media-amazon.com/images/I/31KGeL7u8hL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
@@ -572,7 +572,7 @@
       "id": "e477",
       "title": "Eureka Forbes Wet & Dry Ultimo 1400 Watts Multipurpose Vacuum Cleaner",
       "description": "This vacuum cleaner comes with an auto shut off technology that automatically shuts off the vacuum cleaner to protect from overheating\nPost Purchase virtual Demo is provided. on this product .A dedicated customer service executive is assigned to give live demo of the product over a video call",
-      "price": "999",
+      "price": 999,
       "category": "kitchen",
       "image": "https://m.media-amazon.com/images/I/41jJqhC9nfL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
@@ -583,7 +583,7 @@
       "id": "bc20",
       "title": "JBL Tune 770NC Wireless Over Ear ANC Headphones with Mic",
       "description": "Adaptive Noise Cancelling with Smart Ambient :Adaptive Noise Cancelling means zero distractions when it’s time to focus on your studies—or get your groove on. And if you want to hear the world around you without removing your headphones, Ambient Aware and Talk Thru sharpen the sounds of your surroundings or voices. Easily activate these Ambient Sound Control modes through the JBL Headphones app",
-      "price": "6999",
+      "price": 6999,
       "category": "head phones",
       "image": "https://m.media-amazon.com/images/I/31Vu9iEHP0L._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
@@ -594,7 +594,7 @@
       "id": "e190",
       "title": "RD M-150 Bluetooth in Ear Earphones",
       "description": "13mm DRIVERS: M-150 Bluetooth Neckband Comes with a dual driver of 13 mm that gives the perfect bass and treble. Quality of sound that has an ambient with multiple supported profiles.",
-      "price": "1099",
+      "price": 1099,
       "category": "head phones",
       "image": "https://m.media-amazon.com/images/I/31TM6Z0oMNL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
@@ -605,7 +605,7 @@
       "id": "0135",
       "title": "Sennheiser Professional Audio HD 280 PRO Wired Over Ear Headphones",
       "description": "Dynamic, closed-ear headphones with up to 32 dB attenuation of outside sound Lightweight and comfortable.Frequency response and warm, natural sound reproduction.Around-the-ear design with padded ear cups.Ergonomic design",
-      "price": "7490",
+      "price": 7490,
       "category": "head phones",
       "image": "https://m.media-amazon.com/images/I/41YfJ4j7gkL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
@@ -616,7 +616,7 @@
       "id": "f654",
       "title": "boAt Rockerz 450R On-Ear Headphones with 15 Hours Battery",
       "description": "Its 40mm dynamic drivers help pump out immersive HD audio all day long.It provides a massive battery backup of upto 15 hours for a superior playback time.",
-      "price": "1499",
+      "price": 1499,
       "category": "head phones",
       "image": "https://m.media-amazon.com/images/I/41uIt95kvLL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
@@ -627,7 +627,7 @@
       "id": "0dda",
       "title": "Seagate Expansion 1TB External HDD ",
       "description": "Digital Storage Capacity - 1TB; Get an extra layer of protection for your data with the included 3 year Rescue Data Recovery Services\n",
-      "price": "1444",
+      "price": 1444,
       "category": "storage device",
       "image": "https://m.media-amazon.com/images/I/41A4QqQUNJL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
