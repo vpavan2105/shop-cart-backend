@@ -731,7 +731,7 @@
         }
       ],
       "totalAmount": 3649.92,
-      "status": true
+      "status": "Success"
     },
     {
       "id": "2",
@@ -784,7 +784,7 @@
         }
       ],
       "totalAmount": 3649.92,
-      "status": true
+      "status": "Pending"
     }
   ],
   "carts": [
